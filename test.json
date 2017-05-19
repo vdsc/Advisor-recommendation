@@ -1,0 +1,98 @@
+[
+    {
+        "raw": [
+            "My research interests are in the computer networking area, including performance evaluation of network protocols and algorithms, routing and flow control, wireless network link scheduling, resource allocation in networks and datacenters, energy saving in wireless sensor networks, and content distribution algorithms on overlay networks. I am also interested in probability theory, stochastic processes, and queueing theory."
+        ],
+        "email": [
+            "mailto:yx1@cise.ufl.edu"
+        ],
+        "name": [
+            "\n          Ye Xia        "
+        ],
+        "site": [
+            "https:\/\/www.cise.ufl.edu\/people\/faculty\/yx1"
+        ],
+        "id": "fad64160-2863-497c-a65d-aefa8cbc3a28",
+        "_version_": 1567407978448945153
+    },
+    {
+        "raw": [
+            "Big Network\u00a0Data, Cyber-security, RFID Systems, Cloud Computing, Cyber-physical\u00a0Transportation Systems"
+        ],
+        "email": [
+            "mailto:sgchen@cise.ufl.edu"
+        ],
+        "name": [
+            "\n          Shigang Chen, Ph.D.        "
+        ],
+        "site": [
+            "https:\/\/www.cise.ufl.edu\/people\/faculty\/sgchen"
+        ],
+        "id": "2d1645fc-abc7-44bc-9f25-33943c2803b8",
+        "_version_": 1567407978410147840
+    },
+    {
+        "raw": [
+            "Wireless Networks Design, Mobility Modeling, Network Simulation, Protocol Architecture & Design, Sensor Networks, Mobile Social Networks, Mobile Networks Measurement"
+        ],
+        "email": [
+            "mailto:helmy@cise.ufl.edu"
+        ],
+        "name": [
+            "\n          Ahmed Helmy, Ph.D.        "
+        ],
+        "site": [
+            "https:\/\/www.cise.ufl.edu\/people\/faculty\/helmy"
+        ],
+        "id": "fa6034a4-2324-4676-9618-5c6f2b0daf81",
+        "_version_": 1567407978422730752
+    },
+    {
+        "raw": [
+            "Algorithms and data structures, parallel algorithms, high-performance computing, medical algorithms, network algorithms."
+        ],
+        "email": [
+            "mailto:sahni@cise.ufl.edu"
+        ],
+        "name": [
+            "\n          Sartaj Sahni, Ph.D.        "
+        ],
+        "site": [
+            "https:\/\/www.cise.ufl.edu\/people\/faculty\/sahni"
+        ],
+        "id": "9ef8599a-896d-41b3-b473-6dfd1e2ac5f5",
+        "_version_": 1567407978433216512
+    },
+    {
+        "raw": [
+            "Networks (layers 2 and up): modeling, simulation, congestion control, multipath routing, error control, powerline communications. Distributed systems: overlay networks, fault tolerant services, P2P systems, distributed file systems. Computer and network security: Access control models, multilevel secure systems, policy modeling, cryptographic protocols, steganography, stegananalysis, traffic analysis, anonymity, trust models. Distributed collaboration and CSCW: inter-organizational collaboration, infrastructure for CSCW over WANs, group management models."
+        ],
+        "email": [
+            "mailto:nemo@cise.ufl.edu"
+        ],
+        "name": [
+            "\n          Richard Newman, Ph.D.        "
+        ],
+        "site": [
+            "https:\/\/www.cise.ufl.edu\/people\/faculty\/nemo"
+        ],
+        "id": "462c284a-af02-44c4-8ea7-b6a6b444a134",
+        "_version_": 1567407978427973632
+    },
+    {
+        "raw": [
+            "Paul Gader received his Ph.D. in Mathematics for parallel image processing and applied mathematics research in 1986 from the University of Florida. He has worked as a Senior Research Scientist at Honeywell\u2019s Systems and Research Center, as a Research Engineer and Manager at the Environmental Research Institute of Michigan (ERIM), and as a faculty member at the University of Wisconsin - Oshkosh, and the University of Missouri - Columbia. He joined the faculty of the University of Florida in August 2001. He performed his first research in image processing in 1984 when he worked on algorithms for detection of bridges in Forward Looking Infra-Red (FLIR) imagery. At ERIM and later at the University of Missouri, he led teams involved in the research and development of real-time, handwritten address recognition systems for the U.S. Postal Service. He developed, implemented, and tested image processing, neural network, and fuzzy set based algorithms for handwritten digit recognition and segmentation, numeric field recognition, word recognition and segmentation, and line segmentation. He has also worked on a number of other image and signal analysis projects, including medical imaging, vehicle detection and recognition, acoustic signature analysis, and bio-medical pattern recognition as well as performing fundamental research in image algebra, fuzzy set theory, and and Choquet integral based mathematical morphology. He has actively researched and developed algorithms for land mine research since 1996. He has led teams that devised and field tested several real-time algorithms for mine detection. He served as Technical Director of the University of Missouri MURI on Humanitarian Demining. Past and present landmine detection projects involve algorithm development for data generated from hand-held, ground vehicle-based, and airborne sensors, including ground penetrating radar, acoustic\/seismic, IR (emissive and reflective bands), long-wave, short-wave, near IR, and visible hyperspectral imagery, and wide-band electro-magnetic sensors. He has investigated a wide variety of algorithmic approaches in the context of solving real-world problems. In the last few years, his interests have expanded into the domains of hyperspectral image analysis. Dr. Gader is a senior member of the IEEE and has over 245 technical publications in the areas of image and signal processing, applied mathematics, and pattern recognition, including over 74 refereed journal articles."
+        ],
+        "email": [
+            "mailto:pgader@cise.ufl.edu"
+        ],
+        "name": [
+            "\n          Paul D. Gader, Ph.D.        "
+        ],
+        "site": [
+            "https:\/\/www.cise.ufl.edu\/people\/faculty\/pgader"
+        ],
+        "id": "354c8b91-5c19-4cc6-a13c-d6ab88b2c0db",
+        "_version_": 1567407978418536448
+    }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "site": "http://www.depts.ttu.edu/ECE/faculty/faculty.php?name=Mary Baker", 
+        "raw": "\nBiomedical Signal Processing\nNeuroimaging and Cognition\nMedical Image Processing\n", 
+        "name": "Mary Baker, Ph.D.", 
+        "email": "mailto:mary.baker@ttu.edu"
+    }, 
+    {
+        "site": "http://www.depts.ttu.edu/ECE/faculty/faculty.php?name=Stephen Bayne", 
+        "raw": "\nPower Electronics for Hybrid Electric Vehicles\nDesign of Compact Power Electronics Converters\nEvaluation of Power Devices for Power Electronics & Pulse Power Applications\n", 
+        "name": "Stephen Bayne, Ph.D.", 
+        "email": "mailto:stephen.bayne@ttu.edu"
+    }, 
+    {
+        "site": "http://www.depts.ttu.edu/ECE/faculty/faculty.php?name=Ayrton Bernussi", 
+        "raw": "\nPropagation Losses in Silica\u2212on\u2212Silicon Waveguides\nHigh\u2212Power Laser Diodes\nLossless Propagation in Plasmon\u2212Related Waveguides\nTime Resolved Luminescence of Semiconductors\nSilicon\u2212on\u2212Silica Nanodevices\n", 
+        "name": "Ayrton Bernussi, Ph.D.", 
+        "email": "mailto:ayrton.bernussi@ttu.edu"
+    }, 
+    {
+        "site": "http://www.depts.ttu.edu/ECE/faculty/faculty.php?name=Jo Woon Chong", 
+        "raw": "\nBiomedical Signal Processing\nMedical Instrumentation\nIdentification and Modeling of Physiological Systems\nNon-Invasive Physiological Monitoring\nHome Monitoring of Health and Disease\nWireless Communication and Networks\n", 
+        "name": "Jo Woon Chong, Ph.D., M.S.", 
+        "email": "mailto:J.Chong@ttu.edu"
+    }, 
+    {
+        "site": "http://www.depts.ttu.edu/ECE/faculty/faculty.php?name=Tim Dallas", 
+        "raw": "\nMicroelectromechanical Systems (MEMS)\nNanocoatings\nWireless Medical Devices\n", 
+        "name": "Tim Dallas, Ph.D.", 
+        "email": "mailto:tim.dallas@ttu.edu"
+    }, 
+    {
+        "site": "http://www.depts.ttu.edu/ECE/faculty/faculty.php?name=James Dickens", 
+        "raw": "\nGrounding & Shielding\nExplosive Pulsed Power\nHigh\u2212Power Microwaves\nElectric Space Propulsion\nAerospace Electronics\n", 
+        "name": "James Dickens, Ph.D., P.E.", 
+        "email": "mailto:james.dickens@ttu.edu"
+    }, 
+    {
+        "site": "http://www.depts.ttu.edu/ECE/faculty/faculty.php?name=Zhaoyang Fan", 
+        "raw": "\nWide Bandgap Semiconductor Devices\nNanomaterials for Energy Conversion and Storage\n", 
+        "name": "Zhaoyang Fan, Ph.D.", 
+        "email": "mailto:zhaoyang.fan@ttu.edu"
+    }, 
+    {
+        "site": "http://www.depts.ttu.edu/ECE/faculty/faculty.php?name=Richard Gale", 
+        "raw": "\nMicro-Electro-Mechanical-Systems Design\nNanowires\n", 
+        "name": "Richard Gale, Ph.D., P.E.", 
+        "email": "mailto:richard.gale@ttu.edu"
+    }, 
+    {
+        "site": "http://www.depts.ttu.edu/ECE/faculty/faculty.php?name=Michael Giesselmann", 
+        "raw": "\nMW\u2212Level Motor Drives\nCompact Pulsed Power Distributed Railguns\nPower Electronics\nPulsed Power\nPower Systems\n", 
+        "name": "Michael Giesselmann, Ph.D., P.E.", 
+        "email": "mailto:michael.giesselmann@ttu.edu"
+    }, 
+    {
+        "site": "http://www.depts.ttu.edu/ECE/faculty/faculty.php?name=Miao He", 
+        "raw": "\nCyber-physical power systems\nMonitoring and data fusion towards secure smart grids\nPower system operations with high penetration of renewable resources\nOnline dynamic security assessment of power systems using PMU measurements\n", 
+        "name": "Miao He, Ph.D.", 
+        "email": "mailto:miao.he@ttu.edu"
+    }, 
+    {
+        "site": "http://www.depts.ttu.edu/ECE/faculty/faculty.php?name=Hongxing Jiang", 
+        "raw": "\nSemiconductors, Photonics, and Optoelectronics\nIII\u2212Nitride Semiconductors (BN, AlN, GaN, InN & AlInGaN)\nRadiation sensors\nMOCVD Growth\nMicro\u2212Size Emitter Arrays\nSolid\u2212State Lighting\nEnergy\u2212Conversion Devices\n", 
+        "name": "Hongxing Jiang, Ph.D.", 
+        "email": "mailto:hx.jiang@ttu.edu"
+    }, 
+    {
+        "site": "http://www.depts.ttu.edu/ECE/faculty/faculty.php?name=Ravindra Joshi", 
+        "raw": "\nPulsed Power and High Power Microwaves\nHigh Field Transport and Semiconductor Modeling\nElectrophysics\nBio-electrics\n", 
+        "name": "Ravindra Joshi, Ph.D., P.E.", 
+        "email": "mailto:ravi.joshi@ttu.edu"
+    }, 
+    {
+        "site": "http://www.depts.ttu.edu/ECE/faculty/faculty.php?name=Tanja Karp", 
+        "raw": "\nMultirate Signal Processing\nMulticarrier Communications\nSTEM, Engineering Education\n", 
+        "name": "Tanja Karp, Ph.D.", 
+        "email": "mailto:tanja.karp@ttu.edu"
+    }, 
+    {
+        "site": "http://www.depts.ttu.edu/ECE/faculty/faculty.php?name=Changzhi Li", 
+        "raw": "\nDoppler radar for biomedical and structural health monitoring\nCMOS RF and analog circuits\nMicrowave circuits\n\n", 
+        "name": "Changzhi Li, Ph.D.", 
+        "email": "mailto:changzhi.li@ttu.edu"
+    }, 
+    {
+        "site": "http://www.depts.ttu.edu/ECE/faculty/faculty.php?name=Donald Lie", 
+        "raw": "\nLow\u2212Power RF/Analog Integrated Circuits & System\u2212on\u2212a\u2212Chip (SoC) Design and Test\nInterdisciplinary Research on Medical Electronics, Biosensors, & Biosignal Processing\n", 
+        "name": "Donald Lie, Ph.D.", 
+        "email": "mailto:donald.lie@ttu.edu"
+    }, 
+    {
+        "site": "http://www.depts.ttu.edu/ECE/faculty/faculty.php?name=Jingyu Lin", 
+        "raw": "\nSemiconductors, Photonics, and Optoelectronics\nIII\u2212Nitride Semiconductors (BN, AlN, GaN, InN & AlInGaN)\nRadiation sensors\nMOCVD Growth\nSolid\u2212State Lighting\nEnergy\u2212Conversion Devices\n", 
+        "name": "Jingyu Lin, Ph.D.", 
+        "email": "mailto:jingyu.lin@ttu.edu"
+    }, 
+    {
+        "site": "http://www.depts.ttu.edu/ECE/faculty/faculty.php?name=John Mankowski", 
+        "raw": "\nElectric Space Propulsion\nLiquid & Gas Discharge Physics\nRailgun Technology\nExplosive Pulsed Power\nHigh\u2212Power Microwave Generation\n", 
+        "name": "John Mankowski, Ph.D., P.E.", 
+        "email": "mailto:john.mankowski@ttu.edu"
+    }, 
+    {
+        "site": "http://www.depts.ttu.edu/ECE/faculty/faculty.php?name=Sunanda Mitra", 
+        "raw": "\nImage Processing\nPattern Recognition\nMedical Imaging\nCompression\n", 
+        "name": "Sunanda Mitra, D.Sc.", 
+        "email": "mailto:sunanda.mitra@ttu.edu"
+    }, 
+    {
+        "site": "http://www.depts.ttu.edu/ECE/faculty/faculty.php?name=Andreas Neuber", 
+        "raw": "\nHV Electric Breakdown\nGaseous Electronics\nMaterials Under Shock\nHigh\u2212Power Microwaves\nPulsed Power Technology\n", 
+        "name": "Andreas Neuber, Dr. Eng., P.E.", 
+        "email": "mailto:andreas.neuber@ttu.edu"
+    }, 
+    {
+        "site": "http://www.depts.ttu.edu/ECE/faculty/faculty.php?name=Sergey Nikishin", 
+        "raw": "\nSemiconductors (Si, Ge, III-V, chalcopyrites) and dielectrics\nLight emitting and laser diodes, photodetectors, solar cells, and FETs\nEpitaxial growth and semiconductor processing\nDesign and fabrication of nano- and micro- electronic and photonic devices\n", 
+        "name": "Sergey Nikishin, Ph.D.", 
+        "email": "mailto:sergey.a.nikishin@ttu.edu"
+    }, 
+    {
+        "site": "http://www.depts.ttu.edu/ECE/faculty/faculty.php?name=Brian Nutter", 
+        "raw": "\nBiomedical Imaging\nEmbedded Systems\n", 
+        "name": "Brian Nutter, Ph.D., P.E.", 
+        "email": "mailto:brian.nutter@ttu.edu"
+    }, 
+    {
+        "site": "http://www.depts.ttu.edu/ECE/faculty/faculty.php?name=Ranadip Pal", 
+        "raw": "\nGenomic Signal Processing\nStochastic Modeling & Control\nComputational Biology\nImage Processing\n", 
+        "name": "Ranadip Pal, Ph.D.", 
+        "email": "mailto:ranadip.pal@ttu.edu"
+    }, 
+    {
+        "site": "http://www.depts.ttu.edu/ECE/faculty/faculty.php?name=Vittal Rao", 
+        "raw": "\nElectrical Energy Smart Grid Technologies\nSmart Structural Systems\nTera\u2212Hertz Technologies\nCyber Systems\nRobust Control Systems\nData Fusion & Mining\n", 
+        "name": "Vittal Rao, Ph.D.", 
+        "email": "mailto:vittal.rao@ttu.edu"
+    }, 
+    {
+        "site": "http://www.depts.ttu.edu/ECE/faculty/faculty.php?name=Mohammed Saed", 
+        "raw": "\nMicrowaves\nAntennae\n", 
+        "name": "Mohammed Saed, Ph.D.", 
+        "email": "mailto:mohammad.saed@ttu.edu"
+    }, 
+    {
+        "site": "http://www.depts.ttu.edu/ECE/faculty/faculty.php?name=Hamed Sari-Sarraf", 
+        "raw": "\nImage Processing\nPattern Recognition\n", 
+        "name": "Hamed Sari-Sarraf, Ph.D.", 
+        "email": "mailto:hamed.sari-sarraf@ttu.edu"
+    }
+]

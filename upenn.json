@@ -1,0 +1,212 @@
+[
+    {
+        "raw": "  Rajeev's research is aimed at improving technology for design and analysis of reliable software systems. His team is interested in developing specification logics for formalizing correctness requirements, modeling notations for constructing modular descriptions of complex systems, and verification algorithms for checking systems against requirements. Current projects include software synthesis, programming abstractions for querying streaming data, and finding performance bugs in code for parallel hardware architectures.", 
+        "email": "mailto:alur@cis.upenn.edu", 
+        "name": "Rajeev\u00a0Alur", 
+        "site": "http://www.cis.upenn.edu/~alur/"
+    }, 
+    {
+        "raw": "  As director of the Center for Human Modeling and Simulation, Norm investigates computer graphics and artificial intelligence techniques and applications for embodied agents, virtual humans, and human-computer interaction. His major research directions include developing behavior-based animation of human movement for individuals and groups, constructing a parameterized action representation for real-time simulation and animation, and studying the relationship among human movement, natural language, and communication. Norm's crowd and populace simulation research incorporates environmental context and animates actors with roles and stochastic, scheduled, reactive, and opportunistic behaviors.", 
+        "email": "mailto:badler@seas.upenn.edu", 
+        "name": "Norman I.\u00a0Badler", 
+        "site": "http://www.cis.upenn.edu/~badler"
+    }, 
+    {
+        "raw": "  Matt's research focuses on cryptography and its applications, trust management, human scale security, secure systems design, and networking and distributed computing. He is particularly interested in security technology with bearing on public policy issues, including cryptography policy (key escrow), wiretapping and surveillance, and the security of electronic voting systems.", 
+        "email": "mailto:blaze@cis.upenn.edu", 
+        "name": "Matthew\u00a0Blaze", 
+        "site": "http://www.crypto.com/"
+    }, 
+    {
+        "raw": "  Modern approaches to machine translation, like those used in Google's online translation system, are data-driven.  Statistical translation models are trained using bilingual parallel texts, which consist of sentences in one language paired with their translation into another language.  Translation dictionaries and their associated probabilities are extracted from human-translated parallel texts, and are then used as the basic building blocks in the automatic translation systems. These data-driven methods have been shown to be extremely successful for translating languages which have large bitexts. \n\nChris's research focuses on extending these methods to a much wider range of the world's languages.  His work examines: (1) improving the underlying translation models through the incorporation of rich syntactic models, (2) using crowdsourcing to translate large volumes of text at low cost, achieving professional level translation quality using non-professional translators, and (3) exploring new techniques for learning translation without bilingual training data, instead using distributional properties across languages that can be observed in large collections monolingual texts.\n\nAdditionally, Chris has also made contributions to the classic AI problem of understanding language. His approach to the problem of natural language understanding uses the data and methods from translation.  In particular, he has shown how it is possible to automatically learn paraphrases and other meaning-preserving English transformations using bilingual data. He and his students are exploring how paraphrases can be used to recognize that two sentences share the same meaning, even when they have no words in common like in \"Riots in Denmark were sparked by 12 editorial cartoons that were offensive to Muhammad\" and \"Twelve illustrations insulting the prophet caused unrest\".", 
+        "email": "mailto:ccb@cis.upenn.edu", 
+        "name": "Chris\u00a0Callison-Burch ", 
+        "site": "http://www.cis.upenn.edu/~ccb/"
+    }, 
+    {
+        "raw": "  Kostas' research interests are in computer vision and robotic perception.  His research addresses challenges in the perception of motion and space, such as the geometric design of cameras, and the interplay of geometry and appearance in perception tasks.  Kostas's research gives solutions to perceptual tasks such as panoramic vision, localization, perception of self-motion, large-scale mapping, visual location recognition, 3-D object recognition, and vision-based flocking. Applications of his research involve robot navigation, tele-immersion, and image and shape retrieval.", 
+        "email": "mailto:kostas@cis.upenn.edu", 
+        "name": "Konstantinos\u00a0Daniilidis", 
+        "site": "http://www.cis.upenn.edu/~kostas/"
+    }, 
+    {
+        "raw": "  Susan's work lies in fundamental computer science as it is applied to biomedicine. Her research interests center around information modeling and management, database systems, distributed systems, and bioinformatics.  Within bioinformatics, Susan's group focuses on models and systems for data integration and exchange, representation and  management of incomplete and semi-structured information, provenance tracking and management, and scientific workflows.  Susan has also been instrumental in establishing degree programs in bioinformatics and computational biology at the undergraduate, master's, and doctoral levels.", 
+        "email": "mailto:susan@cis.upenn.edu", 
+        "name": "Susan B.\u00a0Davidson", 
+        "site": "http://www.cis.upenn.edu/~susan/"
+    }, 
+    {
+        "raw": "  Joseph works on identifying new safety properties for parallel programs, precisely defining their guarantees and exploring efficient implementations that employ a range of hardware and software mechanisms.  A recent project shows how to automatically and precisely identify concurrency bugs in parallel programs.  He has also done work demonstrating how to simplify parallel programming by automatically eliminating the nondeterminism that arises from current multicore architectures and programming models.  With nondeterminism removed, parallel programs behave like conventional non-parallel programs that are much easier to write, debug and understand.", 
+        "email": "mailto:devietti@cis.upenn.edu", 
+        "name": "Joseph\u00a0Devietti", 
+        "site": "http://www.cis.upenn.edu/~susan/"
+    }, 
+    {
+        "raw": "  Jean is interested in the application of geometric methods to problems in engineering. In particular, he is investigating methods for smooth surface reconstruction from 3D meshes.  He is also interested in methods for statistical analysis in medical imaging, and focuses on diffusion tensor imaging.  In his work to resolve the difficulties of the non-Euclidean domain of these images, Jean applies Riemannian geometry as a framework for problem solving.", 
+        "email": "mailto:jean@cis.upenn.edu", 
+        "name": "Jean H.\u00a0Gallier", 
+        "site": "http://www.cis.upenn.edu/~jean/"
+    }, 
+    {
+        "raw": "  Sudipto studies the design and implementation of a wide range of computational systems, from resource constrained devices, such as sensors, up through massively parallel and distributed systems.  Using an algorithmic framework, Sudipto seeks to design systems that are correct, efficient, and optimized, despite their bidirectional asymptotic scale and seeming lack of similarity to human information processes.  Sudipto's recent work focuses on clustering and location theory, statistics and learning theory, database query optimization and mining, approximation algorithms for stochastic control, communication complexity and data stream algorithms.", 
+        "email": "mailto:sudipto@seas.upenn.edu", 
+        "name": "Sudipto\u00a0Guha", 
+        "site": "http://www.cis.upenn.edu/~sudipto/"
+    }, 
+    {
+        "raw": "  Andreas is working on distributed systems, networking, and security. He is particularly interested in large-scale distributed systems that span multiple administrative domains, such as cloud computing platforms or the Internet's interdomain routing system. Recently he has been working on accountability for distributed systems and on Internet access networks.", 
+        "email": "mailto:ahae@cis.upenn.edu", 
+        "name": "Andreas\u00a0Haeberlen", 
+        "site": "http://www.cis.upenn.edu/~ahae/"
+    }, 
+    {
+        "raw": "  Brett's research focuses on coding theory and cryptography, using mathematical tools to create secure and robust information systems. In coding theory, Brett has developed new locally correctable error correcting codes from expander graphs. In cryptography, Brett has new developed cryptosystems that are provable secure against chosen ciphertext attacks and selective opening attacks. In addition to developing new algorithmic tools, Brett's research focuses on transitioning algorithms into practice. One such example is Secure Multiparty Computation (MPC), a cryptographic tool that allows a group of stakeholders to jointly compute a function of their private data, without revealing their private data to each other or any outside party. Brett has developed new use cases for MPC, and worked with stakeholders and cryptographers to develop customized algorithms and analyze the costs and benefits of their deployment.", 
+        "email": "mailto:fbrett@cis.upenn.edu", 
+        "name": "Brett\u00a0Hemenway", 
+        "site": "http://www.cis.upenn.edu/~fbrett/"
+    }, 
+    {
+        "raw": "  Nadia's research takes a mathematical approach to computer security and cryptography. She is particularly interested in problems where mathematical or algorithmic tools can provide insight on the security or real-world systems; most recently, this has meant discovering and studying widespread random number generation vulnerabilities. Current areas of interest include network security, privacy, cryptanalysis, computational number theory, lattices, coding theory, and implications for public policy.", 
+        "email": "mailto:nadiah@cis.upenn.edu", 
+        "name": "Nadia\u00a0Heninger", 
+        "site": "http://www.cis.upenn.edu/~nadiah/"
+    }, 
+    {
+        "raw": "  Zach's research focuses on facilitating information sharing in today's Web and wireless worlds. He and his group are developing techniques for connecting different databases and applications together to them, regardless of possible variations and inconsistencies in terminologies or formats. They are also working on higher-level ways of programming large suites of heterogeneous sensor devices, and methods for automatically adapting these programs to target networks and devices. Zach's ultimate goal is to connect users or their applications with the data and in the format they need.", 
+        "email": "mailto:zives@cis.upenn.edu", 
+        "name": "Zachary G.\u00a0Ives", 
+        "site": "http://www.cis.upenn.edu/~zives/"
+    }, 
+    {
+        "raw": "  Sampath's research spans several subfields in algorithms. In his work on massive data set algorithms, Sampath explores what can be computed efficiently, and what is not computable. He is also interested in program checking, a paradigm for ensuring the correctness of a program by observing its behavior at run-time, and in algorithmic problems in computational biology, particularly the problem of reconstructing the evolutionary history of a set of species from phenotypic and molecular sequence observations.", 
+        "email": "mailto:kannan@cis.upenn.edu", 
+        "name": "Sampath K.\u00a0Kannan", 
+        "site": "http://www.cis.upenn.edu/~kannan/"
+    }, 
+    {
+        "raw": "  Michael's primary research interests are in machine learning, probabilistic artificial intelligence, algorithmic game theory, and computational finance. He integrates problems from these areas with methods from theoretical computer science and related disciplines. While the majority of Michael's work is mathematical in nature, he has also participated in a variety of systems and experimental work, including spoken dialogue systems, software agents, and most recently, human-subject experiments in strategic and economic interaction.", 
+        "email": "mailto:mkearns@cis.upenn.edu", 
+        "name": "Michael\u00a0Kearns", 
+        "site": "http://www.cis.upenn.edu/~mkearns/"
+    }, 
+    {
+        "raw": "  Sanjeev works in theoretical computer science, studying the amount of resources that are necessary and sufficient to perform a computational task. His specific interests are in fast computation of near-optimal solutions for NP-hard problems, a class which has eluded efficient exact algorithms.  Ubiquitous in computer science and related disciplines, some representative examples of this class include multiprocessor scheduling, network design and routing, and the celebrated traveling salesman problem.  Sanjeev's recent work has led to efficient algorithms for finding near-optimal solutions to several fundamental network design and routing problems.", 
+        "email": "mailto:sanjeev@cis.upenn.edu", 
+        "name": "Sanjeev \u00a0Khanna", 
+        "site": "http://www.cis.upenn.edu/~sanjeev/"
+    }, 
+    {
+        "raw": "  Insup's research interests are in real-time, embedded, and cyber physical systems, which increasingly affect our daily lives.  His research goals are to ensure and improve the correctness, safety, timeliness, trustworthiness, and compositionality of these systems.  Insup has been developing techniques and tools for compositional real-time scheduling, model-based development, quantitative trust management, and run-time verification. He has also been transitioning his research results into practice by applying them to safety-critical embedded systems and high-confidence medical device systems.", 
+        "email": "mailto:lee@cis.upenn.edu", 
+        "name": "Insup\u00a0Lee", 
+        "site": "http://www.cis.upenn.edu/~lee/"
+    }, 
+    {
+        "raw": "  Vincent's research is in the general area of networked systems and bridges all layers of the networking stack, from hardware concerns to application and user demands. Within computer networking, he has published in a variety of fields including data center networks, fault-tolerant distributed systems, energy-efficient wireless communication, and systems to preserve security and privacy.", 
+        "email": "mailto:liuv@cis.upenn.edu", 
+        "name": "Vincent\u00a0Liu", 
+        "site": "http://vincen.tl/"
+    }, 
+    {
+        "raw": "  Boon's research focuses on distributed data management systems, Internet-scale query processing, and the application of database technologies to networked systems. He is particularly interested in developing information-centric network architectures that can be easily extended, composed, and formally verified. His recent projects include applying declarative networking techniques in the areas of dynamic network composition, adaptive mobile ad-hoc networks, and scalable knowledge-based networks. He is also exploring novel database-inspired techniques for diagnosing, securing, and verifying network protocols.", 
+        "email": "mailto:boonloo@cis.upenn.edu", 
+        "name": "Boon Thau\u00a0Loo", 
+        "site": "http://www.seas.upenn.edu/~boonloo/"
+    }, 
+    {
+        "raw": "  Mitch works at the intersection of linguistics and computer science, leveraging our understanding of the structure of language to develop new technologies which will automatically extract increasingly rich information from texts in languages in such languages as English, Arabic, and Chinese.  He and his collaborators have developed statistical and symbolic methods for automatic acquisition of linguistic structure, and methodologies for annotation of linguistic structure in large text corpora.  Specifically, Mitch and his group are working on corpora which are hand-annotated with linguistic structure for use world-wide as training materials for new machine learning algorithms.", 
+        "email": "mailto:mitch@cis.upenn.edu", 
+        "name": "Mitchell P.\u00a0Marcus", 
+        "site": "http://www.cis.upenn.edu/~mitch/"
+    }, 
+    {
+        "raw": "  Max's research program focuses on developing a better understanding of the nature of good algorithms for decision-making under uncertainty, with applications to machine perception and robotics. Current research topics include the application of game theory and statistical decision theory for designing robust fixed-geometry confidence regions for multivariate location parameters, and algorithms for robust multisensor fusion and set-valued state estimation with performance guarantees. Max also works with applications of confidence sets for cooperative and noncooperative mobile robots.", 
+        "email": "mailto:mintz@cis.upenn.edu", 
+        "name": "Max \u00a0Mintz", 
+        "site": "http://www.cis.upenn.edu/~mintz/"
+    }, 
+    {
+        "raw": "  Chris' research focuses on testing software without test oracles, i.e., for which it is difficult or impossible to know the correct output for arbitrary input. His research also includes mutation analysis, code readability and understandability, Android testing utilities, and CS outreach programs. ", 
+        "email": "mailto:cdmurphy@seas.upenn.edu", 
+        "name": "Chris\u00a0Murphy", 
+        "site": "http://www.seas.upenn.edu/~cdmurphy/"
+    }, 
+    {
+        "raw": "  Mayur's research spans the areas of programming languages and software engineering.  He investigates automated reasoning techniques for improving the effectiveness of programmers and software on conventional as well as emerging architectures.  These techniques encompass the areas of program analysis, machine learning, and constraint solving.  Previously, he was a researcher at Intel Labs, Berkeley (2008-2011) and on the faculty at Georgia Tech (2011-2016).", 
+        "email": "mailto:mhnaik@cis.upenn.edu", 
+        "name": "Mayur\u00a0Naik", 
+        "site": "http://www.seas.upenn.edu/~cdmurphy/"
+    }, 
+    {
+        "raw": "  Ani works in the area of natural language processing, focusing on automatic summarization, text generation, discourse and prosody.  She is addressing the increasing need for intelligent summarization systems brought on by the proliferation of textual information in electronic form.  Ani's research has addressed challenges in summarization, including identifying important content to include in the summary, automatic revision of human written text to better fit in the new context of the summary, and automatic identification of inputs that current systems handle poorly.", 
+        "email": "mailto:nenkova@seas.upenn.edu", 
+        "name": "Ani\u00a0Nenkova", 
+        "site": "http://www.seas.upenn.edu/~nenkova/"
+    }, 
+    {
+        "raw": "  Linh's interests include real-time systems, embedded systems, cyber-physical systems, and cloud computing. Her research develops theoretical methods, analysis tools, and platform support for building complex systems efficiently and with provable safety and timing guarantees. She is especially interested in techniques that integrate theory, systems, and application aspects. Recently, she has been working on methods for defending cyber-physical systems against malicious attacks, as well as on real-time cloud infrastructures for safety-critical and mission-critical systems.", 
+        "email": "mailto:linhphan@cis.upenn.edu", 
+        "name": "Linh Thi Xuan\u00a0Phan", 
+        "site": "http://www.seas.upenn.edu/~nenkova/"
+    }, 
+    {
+        "raw": "  Benjamin's research focuses on foundational principles leading to more robust, cohesive, and secure software systems.  He has worked on programming languages, static type systems, concurrent and distributed programming, synchronization technologies, and computer security, always with an eye to the fruitful interplay of theory and practice.  Benjamin is the author of several books, including the widely used graduate text, Types and Programming Languages, and is the lead designer of the popular Unison file synchronizer.", 
+        "email": "mailto:bcpierce@cis.upenn.edu", 
+        "name": "Benjamin C.\u00a0Pierce", 
+        "site": "http://www.cis.upenn.edu/~bcpierce/home.html"
+    }, 
+    {
+        "raw": "  Roth studies algorithm design in settings in which either the data belongs to other self-interested parties, or the computation is to be performed by other self-interested parties. This requires studying the algorithmic foundations of data privacy and game theory. In particular, he is interested in what kinds of computations can be performed while satisfying strong information-theoretic privacy constraints, and in how selfish agents can be incentivized by these strong privacy protections to allow their data to be used.  ", 
+        "email": "mailto:aaroth@cis.upenn.edu", 
+        "name": "Aaron\u00a0Roth", 
+        "site": "http://www.cis.upenn.edu/~aaroth/"
+    }, 
+    {
+        "raw": "  Jianbo's group is developing vision algorithms for both human and image recognition.  Their ultimate goal is to develop computation algorithms to understand human behavior and interaction with objects in video, and to do so at multiple levels of abstractions: from the basic body limb tracking, to human identification, gesture recognition, and activity inference. Jianbo and his group are working to develop a visual thinking model that allows computers not only to understand their surroundings, but also to achieve higher level cognitive abilities such as machine memory and learning.", 
+        "email": "mailto:jshi@cis.upenn.edu", 
+        "name": "Jianbo\u00a0Shi", 
+        "site": "http://www.cis.upenn.edu/~jshi/"
+    }, 
+    {
+        "raw": "  Jonathan's research interests center around computer networking and computer security. He is developing network architectures for new services and applications, such as the Terabit Edge Research Activity (TERA), which is focused on the coupling between parallel processing and parallelism in transmission systems, and implications for host software and network control. Jonathan is also working on Zodiac, an intrinsically assurable mobile ad-hoc network, where many challenges ensue as router and host become indistinguishable, and Dynamic Trust Management (DTM), which is focused on \"situation-aware\" authorizations for privileged actions, such as emergency situations.", 
+        "email": "mailto:jms@cis.upenn.edu", 
+        "name": "Jonathan M.\u00a0Smith", 
+        "site": "http://www.cis.upenn.edu/~jms/"
+    }, 
+    {
+        "raw": "  Oleg focuses his research interests on the application of formal methods to design and verify distributed real-time systems.  He works on modeling and analysis of computer-based systems, particularly medical devices, which require high levels of confidence in their operation. Oleg aims to develop mathematically grounded modeling languages, algorithms, and tools to verify system models in terms of their functional correctness and timeliness.  He also develops methods for implementing systems according to their models.", 
+        "email": "mailto:sokolsky@cis.upenn.edu", 
+        "name": "Oleg\u00a0Sokolsky", 
+        "site": "http://www.cis.upenn.edu/~sokolsky/"
+    }, 
+    {
+        "raw": "  Val's work is centered around data management technologies and their applications in life sciences. He and his group are currently working on models and systems for data sharing, data provenance and uncertain information. His research has been applied in genomics and bioinformatics as well as in phyloinformatics and systematic biology. Val's past work also includes research in programming languages and high-performance computing. In addition, he maintains a special interest in applications of mathematical logic to computer science.", 
+        "email": "mailto:val@cis.upenn.edu", 
+        "name": "Val B.\u00a0Tannen", 
+        "site": "http://www.cis.upenn.edu/~val/"
+    }, 
+    {
+        "raw": "  CJ's research interests focus on computer vision and robotics.  His work on problems related to recovering 3-D models from 2-D images has led to commercially deployed techniques for recovering architectural models. CJ has also developed algorithms for recovering the posture of articulated figures, such as humans from photographs and video footage. His current research include work on self-localizing embedded smart camera systems and their applications to problems such as automated surveying systems, ad-hoc surveillance systems, three-dimensional reconstruction and mobile robot localization.", 
+        "email": "mailto:cjtaylor@central.cis.upenn.edu", 
+        "name": "Camillo J.\u00a0Taylor", 
+        "site": "http://www.cis.upenn.edu/~cjtaylor/"
+    }, 
+    {
+        "raw": "  Lyle develops machine learning and text mining methods in order to solve problems in genomics, bioinformatics, and information extraction.  Key to his work in building scalable solutions to such problems is the development of methods that can exploit knowledge, including the link structure between documents or genes and the structure of the relational database training from which data are drawn. Lyle and his group are also developing theoretically grounded feature selection methods that scale to millions of features, and scalable clustering and regression algorithms.", 
+        "email": "mailto:ungar@cis.upenn.edu", 
+        "name": "Lyle H.\u00a0Ungar", 
+        "site": "http://www.cis.upenn.edu/~ungar"
+    }, 
+    {
+        "raw": "  The goal of Stephanie's research is to enhance the reliability, maintainability, and security of software systems through statically-typed programming languages.  Her research explores novel methods to bring more expressive type systems to users.  Stephanie works to reconcile the features of expressive-but-theoretical type systems with existing languages, while partially automating the process of type system design to improve confidence in the soundness of more complicated type systems.  Stephanie is also engaged in incorporating programming logics into the design of practical type systems so that application-specific properties may be expressed.", 
+        "email": "mailto:sweirich@cis.upenn.edu", 
+        "name": "Stephanie\u00a0Weirich", 
+        "site": "http://www.cis.upenn.edu/~sweirich/"
+    }, 
+    {
+        "raw": "  Steve's research focuses on the problem of building software that is reliable, robust, and secure by construction. He draws on techniques from type theory, logic, and formal methods to develop programming languages that enforce strong information-flow and authorization policies in dynamic, distributed environments. His recent projects have developed techniques for incorporating robust declassification, dynamic principals, and cryptographic enforcement of authorization policies into a security-oriented language called AURA. Steve is also interested in machine-checked theorem proving, concurrent programming, and functional languages.", 
+        "email": "mailto:stevez@cis.upenn.edu", 
+        "name": "Stephan A.\u00a0Zdancewic", 
+        "site": "http://www.cis.upenn.edu/~stevez/"
+    }
+]
